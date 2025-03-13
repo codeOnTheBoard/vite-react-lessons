@@ -1,0 +1,15 @@
+
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto; /* Центрирование по горизонтали */
+    padding: 20px; /* Добавляет небольшой отступ, чтобы проверить */
+    background: lightgray; /* Временный фон для наглядности */
+}

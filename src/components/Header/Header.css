@@ -1,0 +1,24 @@
+
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto; /* Центрирование по горизонтали */
+    padding: 20px; /* Добавляет небольшой отступ, чтобы проверить */
+    background: lightgray; /* Временный фон для наглядности */
+}
+.header {
+ /* padding: 0 !important; */
+  margin: 0 !important;
+
+}
+
+.title_h1 {
+  font-size: 4.8rem;
+  text-align: center;
+}
